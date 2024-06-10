@@ -18,7 +18,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/StockPortfolioApp.git
+git clone https://github.com/sraj2794/StockPortfolioApp.git
 cd StockPortfolioApp
 Open in Xcode:
 Open the .xcodeproj file in Xcode.
